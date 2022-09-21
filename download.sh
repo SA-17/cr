@@ -13,7 +13,7 @@ sudo ln -sf ~/bin/repo /usr/bin/repo
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
-# sync rom
+# sync rom.
 cd
 mkdir rom
 cd rom
